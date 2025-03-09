@@ -6,7 +6,6 @@
 - Version Control: GIt, Gighub, Bitbucket
 - APIs: RESTful APIs, GraphQL
 
-⭐ The success of your business depends on the people who work for you.. If you need an experienced, hardworking and responsible developer, then you have found the right person. I am an Angular Expert with 6 years of experience in Web development.
 ## What I Can DO For You
 ✅ Full-Stack Development: From desigining user-friendly interfaces to building robust back-end services, I specialize
    in creating end to end solutions for web and mobile platforms
