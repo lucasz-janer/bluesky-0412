@@ -2,6 +2,7 @@
 - FrontEnd: Angular, React, TypeScript, Vue
 - Backend: Node.js, Java, Python
 - Web Technologies: HTML5, CSS3, JavaScript
+- Haskell, Nix
 - DataBases: MongoDB, MySQL, PostgreSQL, Firebase
 - Version Control: GIt, Gighub, Bitbucket
 - APIs: RESTful APIs, GraphQL
